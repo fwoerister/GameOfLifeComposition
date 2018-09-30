@@ -9,3 +9,6 @@ Platform.userExtensionDir
 ```
 Now copy `GameOfLife.sc` and `K2R1.sc` into this directory or create a link to the original file.  
 Once this is done, you can run the `GameOfLifeComposition.sc` (but don't forget to boot the server :wink:)
+
+## Demo
+A demo of this music piece can be found in the folder `demo/`
